@@ -1,0 +1,2 @@
+Writing to file with absolute file path
+Second line of text
