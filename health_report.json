@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-06-17T15:47:37.090763",
+  "results": [
+    {
+      "name": "Example",
+      "url": "https://exple.com",
+      "status": "http_error",
+      "http_code": 403
+    },
+    {
+      "name": "JSONPlaceholder",
+      "url": "https://jsonplaceholder.typicode.com/posts/1",
+      "status": "reachable",
+      "http_code": 200
+    }
+  ]
+}
